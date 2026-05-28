@@ -1,6 +1,6 @@
 # 🛍️ ProductRest API
 
-A Spring Boot REST API for managing products and reviews in an e-commerce system.
+A Spring Boot Product REST API with CRUD, reviews, pagination, search, sorting, MySQL, and Cloudinary image upload.
 
 This project provides:
 
@@ -12,6 +12,14 @@ This project provides:
 - Multi-image Upload using Cloudinary
 - Product Dimensions Support
 - Review System for Products
+
+---
+
+## 🚀 Live Demo 
+
+ [https://YOUR_RENDER_URL.onrender.com ](https://product-rest-apis.onrender.com)
+
+You can test the APIs directly using the endpoints.
 
 ---
 
