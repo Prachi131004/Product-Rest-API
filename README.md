@@ -17,7 +17,7 @@ This project provides:
 
 ## 🚀 Live Demo 
 
- [https://YOUR_RENDER_URL.onrender.com ](https://product-rest-apis.onrender.com)
+[https://product-rest-apis.onrender.com](https://product-rest-apis.onrender.com)
 
 You can test the APIs directly using the endpoints.
 
